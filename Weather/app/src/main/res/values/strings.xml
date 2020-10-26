@@ -2,9 +2,15 @@
     <string name="app_name">Weather</string>
     <string name="clear">Clear</string>
     <string name="pressure">Pressure</string>
+    <string name="pvalue">250HPa</string>
     <string name="wind">Wind</string>
+    <string name="wvalue">35m/s</string>
     <string name="sunset">Sunset</string>
+    <string name="ssvalue">5:35 AM</string>
     <string name="sunrise">Sunrise</string>
+    <string name="srvalue">6:25 PM</string>
     <string name="clouds">Clouds</string>
+    <string name="cvalue">scattered</string>
     <string name="humidity">Humidity</string>
+    <string name="hvalue">45%</string>
 </resources>
